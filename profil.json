@@ -1,0 +1,16 @@
+
+{
+  "jmeno": "Viktor",
+  "vek": 17,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "ulice": "Hlavni 15"
+  },
+  "konicky": [
+    "programovani",
+    "motokary",
+    "pocitacove hry"
+  ]
+}
