@@ -1,9 +1,9 @@
-
 {
   "jmeno": "Viktor",
   "vek": 17,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Rad sportuji a hraji pocitacove hry",
+  "oblibene_cislo": 7,
   "adresa": {
     "mesto": "Praha",
     "ulice": "Hlavni 15"
@@ -14,3 +14,4 @@
     "pocitacove hry"
   ]
 }
+
