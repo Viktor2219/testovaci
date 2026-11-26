@@ -1,5 +1,6 @@
-id,nazev,autor,rok_vydani,dostupna
-1,Harry Potter a Kámen mudrců,J.K. Rowling,1997,ano
-2,Hobit,J.R.R. Tolkien,1937,ne
-3,"Já, robot",Isaac Asimov,1950,ano
-4,Malý princ,Antoine de Saint-Exupéry,1943,ano
+id,nazev,autor,rok_vydani,dostupna,pocet_stran
+1,Harry Potter a Kámen mudrců,J.K. Rowling,1997,ano,336
+2,Hobit,J.R.R. Tolkien,1937,ne,310
+3,"Já, robot",Isaac Asimov,1950,ano,256
+4,Malý princ,Antoine de Saint-Exupéry,1943,ano,96
+
